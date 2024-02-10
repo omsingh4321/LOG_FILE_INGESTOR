@@ -7,10 +7,10 @@ Welcome to the MERN Log Ingestor and searching, a powerful solution for handling
 -->In backend i have added RabbitMq open-source message broker software to handle the large amount of data at once which generally stores the data on queue and pushes on mongo db one by one so that the database should not be overloaded at once
 ### TO install RabbitMq Follow THese Steps
  ##### Run Following Commands in Ubuntu terminal
-     1) sudo apt update (To update the package list)<br>
-     2) sudo apt install rabbitmq-server (Install RabbitMQ Server)<br>
-     3) sudo service rabbitmq-server start (Start the RabbitMQ service)<br>
-     4) sudo systemctl enable rabbitmq-server (Enable the rabbit mq sevice)<br>
+     1) sudo apt update (To update the package list)
+     2) sudo apt install rabbitmq-server (Install RabbitMQ Server)
+     3) sudo service rabbitmq-server start (Start the RabbitMQ service)
+     4) sudo systemctl enable rabbitmq-server (Enable the rabbit mq sevice)
      5) sudo service rabbitmq-server status (To check the service status)
 ## Setting of env file 
 DBURL=Use your database Mongo URL<br>
