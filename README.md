@@ -4,7 +4,7 @@ Welcome to the MERN Log Ingestor and searching, a powerful solution for handling
 ## Getting Started
 -->Simply Clone the project from git clone and run it on vs code<br>
 -->Then install all dependencies using npm install on frontend and backend both<br>
--->In backend i have added RabbitMq open-source message broker software to handle the large amount of data at once which generally stores the data on queue and pushes on mongo db one by one so that the database should not be overloaded at once
+-->In backend i have added RabbitMq open-source message broker software to handle the large amount of data at once which generally stores the data on queue and pushes on mongo db one by one so that the database should not be overloaded at once<br>
 -->I've integrated pagination into the MERN stack application, enhancing user experience by efficiently managing large datasets. This feature enables users to navigate through content seamlessly, improving accessibility and performance. With pagination, users can access specific portions of data without overwhelming the interface, promoting a smoother browsing experience.
 ### TO install RabbitMq Follow THese Steps
  ##### Run Following Commands in Ubuntu terminal
