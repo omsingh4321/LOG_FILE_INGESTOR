@@ -19,10 +19,6 @@ dbName=Your db name<br>
 QUEUE=DyteQueue<br>
 PORT=3000<br>
 limit=10<br>
-## PostMan Link
-https://api.postman.com/collections/25682727-9f340ad3-4e9a-4d7f-99a4-e4bda1fdeeef?access_key=PMAT-01HFKXHW6457ZDJQY7Z89RCM9F
-## Log Ingestor
-Use api provided to ingest data in the mongo db
 ## For Searching Logs
 The user has to search a keyword and then click on the search button to get  the belong data
 ![image](https://github.com/dyte-submissions/november-2023-hiring-omsingh4321/assets/110286904/54525053-6ee2-4b6b-a760-ebc58a5fd275)
